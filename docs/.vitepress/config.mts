@@ -107,6 +107,7 @@ export default defineConfig({
   },
   
   // 站点级选项
+  base: "/fyma_note/",
   title: "fyma_",
   description: "Study and Work.",
   
