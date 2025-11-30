@@ -16,7 +16,7 @@ hero:
       link: /nav
     - theme: alt
       text: 常用操作记录
-      link: /note
+      link: /opera_comm/Linux
     - theme: brand
       text: 学习分享
       link: /study_note/notes_sum
